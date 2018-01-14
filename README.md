@@ -1,5 +1,14 @@
 # Intrusion_Detection
 
+Install the required dependencies (for windows):
+
+
+* python -m pip install opencv-python (For cv2)
+* python -m pip install pushbullet.py (For Pushbullet)
+* python -m pip install pypiwin32 (For win32com.client)
+* python -m pip install numpy (For numpy)
+
+
 Whenever founds internet connectivity  confirms is it you. <br />
 If not log you off and send you image of intruder. <br />
 
